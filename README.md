@@ -1,16 +1,20 @@
-## Hi there 👋
+# M5CodeLab
 
-<!--
-**M5CodeLab/M5CodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Developer • Cybersecurity • Hardware
 
-Here are some ideas to get you started:
+I'm M5 — learning, building and experimenting with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Currently
+
+- 🔐 Cybersecurity
+- 💻 C++ / Web Development
+- 🐧 Linux & CTF
+- ⚡ ESP32 / Arduino
+
+### 🛠️ Tech
+
+C++ · HTML · CSS · JavaScript · PHP · Linux · Git · ESP32
+
+---
+
+*Still learning. Still building.*
