@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="500" alt="M5 banner"/>
+<img src="banner.png" width="500" alt="M5 banner"/>
 
 # 👋 Hey, I'm M5
 
@@ -70,7 +70,6 @@ learning... building... repeating...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M5CodeLab&show_icons=true&theme=default&hide_border=true" alt="M5CodeLab's GitHub stats" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M5CodeLab&hide_border=true" alt="M5CodeLab's streak stats" width="48%"/>
 
 </div>
