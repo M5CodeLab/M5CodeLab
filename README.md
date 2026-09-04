@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/M5CodeLab/M5CodeLab/raw/main/assets/anime.jpg" width="180" alt="M5 avatar"/>
+<img src="assets/banner.png" width="500" alt="M5 banner"/>
 
 # 👋 Hey, I'm M5
 
