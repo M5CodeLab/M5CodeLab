@@ -80,7 +80,7 @@ learning... building... repeating...
 ## 📫 Reach Me
 
 * 🎥 YouTube: [@M5CodeLab](https://www.youtube.com/@M5CodeLab)
-* 𝕏 X: [@c_081555](https://x.com/c_081555)
+* 𝕏: [@c_081555](https://x.com/c_081555)
 * 💬 Telegram: [t.me/M5_CodeLab](https://t.me/M5_CodeLab)
 
 <div align="center">
