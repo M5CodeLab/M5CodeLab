@@ -47,6 +47,7 @@ learning... building... repeating...
 | [**Cpp-Youtube-Course**](https://github.com/M5CodeLab/Cpp-Youtube-Course)           | Source files & code that accompany my C++ YouTube tutorial series — follow along and code with me. | C++    |
 | [**port-scanner**](https://github.com/M5CodeLab/port-scanner)                       | A lightweight network port scanner.                                                                | Python |
 | [**senior-friendly-captcha**](https://github.com/M5CodeLab/senior-friendly-captcha) | A simple, accessible CAPTCHA designed for easier use — backend integration required.               | HTML   |
+| [**passgen.sh**](https://github.com/M5CodeLab/passgen.sh)                           | A dependency-free Bash password & random number generator using `/dev/urandom`.                    | Bash   |
 
 > 📌 Check out my [pinned repositories](https://github.com/M5CodeLab?tab=repositories) for more.
 
