@@ -69,13 +69,17 @@ learning... building... repeating...
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=M5CodeLab&show_icons=true" alt="M5CodeLab's GitHub stats" width="48%"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M5CodeLab&layout=compact" alt="M5CodeLab's top languages" width="48%"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M5CodeLab&hide_border=true" alt="M5CodeLab's streak stats" width="48%"/>
 
 </div>
-
 ---
 
 ## 📫 Reach Me
